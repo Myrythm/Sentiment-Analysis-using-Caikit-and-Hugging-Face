@@ -1,5 +1,5 @@
 # Sentiment Analysis using Caikit and Hugging Face
-This project leverages the power of Caikit and Hugging Face frameworks to conduct sentiment analysis tasks efficiently. By combining Caikit's capabilities in preprocessing, feature extraction, and model training with Hugging Face's pre-trained models and fine-tuning tools, this repository offers a comprehensive solution for sentiment analysis.**
+This project leverages the power of Caikit and Hugging Face frameworks to conduct sentiment analysis tasks efficiently. By combining Caikit's capabilities in preprocessing, feature extraction, and model training with Hugging Face's pre-trained models and fine-tuning tools, this repository offers a comprehensive solution for sentiment analysis.
 
 # Features
 - Utilizes Caikit for preprocessing, feature extraction, and model training.
